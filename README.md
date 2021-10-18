@@ -1,4 +1,9 @@
+[![wakatime](https://wakatime.com/badge/user/5bcfef6f-45a1-453b-a2e0-54fdfe7f2990.svg)](https://wakatime.com/@5bcfef6f-45a1-453b-a2e0-54fdfe7f2990)
+
 ### Hi there 👋
+
+I'm now a graduate (Ph.D) student in Fudan University. 
+
 
 <!--
 **j7168908jx/j7168908jx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
