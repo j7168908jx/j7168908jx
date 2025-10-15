@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm currently a graduate (PhD) student at Fudan University. Majored in Computational Mathematics.
+I'm currently a quantitative researcher/developer in hedge funds.
 
 <!--
 **j7168908jx/j7168908jx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
